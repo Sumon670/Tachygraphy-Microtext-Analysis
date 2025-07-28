@@ -46,7 +46,7 @@ pinned: false
 
 | **Training Source** | **Kaggle Collections** | **Hugging Face Org** |
 | ------------------- | ---------------------- | -------------------- |
-| [GitHub @ Tachygraphy Micro-text Analysis & Normalization](https://github.com/ArchismanKarmakar/Tachygraphy-Microtext-Analysis-And-Normalization) | [Kaggle Dataset](https://www.kaggle.com/datasets/archismancoder/dataset-tachygraphy/data?select=Tachygraphy_MicroText-AIO-V3.xlsx) | [Hugging Face @ Tachygraphy Micro-text Normalization](https://huggingface.co/Tachygraphy-Microtext-Normalization-IEMK25) |
+| [GitHub @ Tachygraphy Micro-text Analysis & Normalization](https://github.com/Sumon670/Tachygraphy-Microtext-Analysis) | [Kaggle Dataset](https://www.kaggle.com/datasets/archismancoder/dataset-tachygraphy/data?select=Tachygraphy_MicroText-AIO-V3.xlsx) | [Hugging Face @ Tachygraphy Micro-text Normalization](https://huggingface.co/Tachygraphy-Microtext-Normalization-IEMK25) |
 
 | **Deployment Source** | **Streamlit Deployment** | **Hugging Face Space Deployment** |
 | --------------------- | ------------------------ | --------------------------------- |
